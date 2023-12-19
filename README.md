@@ -1,5 +1,6 @@
 # reading-notes
 ## Reading Journal for Code Fellow
+Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to be the best that I can be. 
 
 **Growth Mindset** is putting in the effort to to develop a skill knowing that you are able to do it through constant hard work and a positive attitude.
 
