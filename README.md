@@ -12,5 +12,19 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 >
 > -Sherman Finesilver-
 
+## Markdown
+### What is IT? Why do we use IT?
+**Markdown** is a lightweight markup language that uses plain text formatting to create rich documents. It's a way to add formatting to text without using complicated code. With simple syntax, Markdown allows you to create headers, lists, links, and more. It's widely used for writing content that can be easily converted to HTML and is commonly used on platforms like GitHub, Reddit, and various other platforms.
+
+### Creating a Heading in Markdown
+To create a heading you need to add the number sign (#) at the beginning of the word or phrase. Also each sign that you add will give it a heading level
+
+- (#) 1 of these will make it the largets heading and will make it look like this
+  - # example
+- (#######) 6 of these will make it the smallest heading and it will look like this
+  - ###### example
+
+
+
 
 [Jesus' Github Page](https://github.com/Jnez405)
