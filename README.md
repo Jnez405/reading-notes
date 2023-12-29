@@ -24,6 +24,20 @@ To create a heading you need to add the number sign (#) at the beginning of the 
 - (#######) 6 of these will make it the smallest heading and it will look like this
   - ###### example
 
+## Making Text Bold or Italicized
+- **Bold**
+
+   to create a bold text you need to add 2 astericks or underscore before and after a word
+- ***Italicized***
+
+   to create a italicized text you need to add 1 astericks before and after a word
+
+- **unordered list**
+  To create an unordered list add one of the fallowing symbols in front of line items.
+  - dashes (-) 
+  * asterisks (*)
+  + plus signs (+) 
+
 
 
 
