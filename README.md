@@ -42,3 +42,6 @@ To create a heading you need to add the number sign (#) at the beginning of the 
 
 
 [Jesus' Github Page](https://github.com/Jnez405)
+
+
+[Test link to new page](/reading-notes/Test.md)
