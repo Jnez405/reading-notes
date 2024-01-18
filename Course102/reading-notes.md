@@ -15,16 +15,16 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 # Notes/Assignments
 ## Course 102
-[C1-Markdown](https://jnez405.github.io/reading-notes/Course102/C-1_Markdown)
+[C1 - Markdown](https://jnez405.github.io/reading-notes/Course102/C-1_Markdown)
+
+[C2 - Coder's Computer](https://jnez405.github.io/reading-notes/Course102/C-2_Coders_Computer)
 
 
 
-
-
+***
 
 
 
 > [Jesus' Github Page](https://github.com/Jnez405)
 
 
-> [Test link to new page](https://jnez405.github.io/reading-notes/Test)
