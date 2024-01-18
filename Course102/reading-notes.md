@@ -24,7 +24,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 
 
-[Jesus' Github Page](https://github.com/Jnez405)
+> [Jesus' Github Page](https://github.com/Jnez405)
 
 
-[Test link to new page](https://jnez405.github.io/reading-notes/Test)
+> [Test link to new page](https://jnez405.github.io/reading-notes/Test)
