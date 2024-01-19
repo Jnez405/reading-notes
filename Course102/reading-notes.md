@@ -1,6 +1,6 @@
 # reading-notes
 ## Reading Journal for Code Fellow
-Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to be the best that I can be. 
+Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to be the best that I can be.
 
 **Growth Mindset** is putting in the effort to to develop a skill knowing that you are able to do it through constant hard work and a positive attitude.
 
@@ -12,19 +12,16 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 >
 > -Sherman Finesilver-
 
-
 # Notes/Assignments
 ## Course 102
 [C1 - Markdown](https://jnez405.github.io/reading-notes/Course102/C-1_Markdown)
 
 [C2 - Coder's Computer](https://jnez405.github.io/reading-notes/Course102/C-2_Coders_Computer)
 
-
-
 ***
-
-
 
 > [Jesus' Github Page](https://github.com/Jnez405)
 
+<!-- <p style="color: red;">Red text</p> -->
 
+And let's check `git status` 
