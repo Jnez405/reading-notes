@@ -64,7 +64,3 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 ***
 
 > [Jesus' Github Page](https://github.com/Jnez405)
-
-<!-- <p style="color: red;">Red text</p> -->
-
-And let's check `git status` 
