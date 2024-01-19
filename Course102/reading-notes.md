@@ -13,7 +13,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 > -Sherman Finesilver-
 
 # Notes/Assignments
-## Course 102
+## Code 102 Reading Notes
 [C1 - Markdown](https://jnez405.github.io/reading-notes/Course102/C-1_Markdown)
 
 [C2 - Coder's Computer](https://jnez405.github.io/reading-notes/Course102/C-2_Coders_Computer)
@@ -29,6 +29,38 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 [C-7 Programming with JavaScript](https://jnez405.github.io/reading-notes/Course102/C-7_Programming_with_JavaScript.md)
 
 [C-8 Operators and Loops](https://jnez405.github.io/reading-notes/Course102/C-8_Operators_and_Loops.md)
+
+## Code 201 Reading Notes
+[1](https://jnez405.github.io/reading-notes/Course201/1.md)
+
+[2](https://jnez405.github.io/reading-notes/Course201/2.md)
+
+[3](https://jnez405.github.io/reading-notes/Course201/3.md)
+
+[4](https://jnez405.github.io/reading-notes/Course201/4.md)
+
+[5](https://jnez405.github.io/reading-notes/Course201/5.md)
+
+[6](https://jnez405.github.io/reading-notes/Course201/6.md)
+
+[7](https://jnez405.github.io/reading-notes/Course201/7.md)
+
+[8](https://jnez405.github.io/reading-notes/Course201/8.md)
+
+[9](https://jnez405.github.io/reading-notes/Course201/9.md)
+
+[10](https://jnez405.github.io/reading-notes/Course201/10.md)
+
+[11](https://jnez405.github.io/reading-notes/Course201/11.md)
+
+[12](https://jnez405.github.io/reading-notes/Course201/12.md)
+
+[13](https://jnez405.github.io/reading-notes/Course201/13.md)
+
+[14](https://jnez405.github.io/reading-notes/Course201/14.md)
+
+[15](https://jnez405.github.io/reading-notes/Course201/15.md)
+
 ***
 
 > [Jesus' Github Page](https://github.com/Jnez405)
