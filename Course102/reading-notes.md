@@ -18,48 +18,48 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C2 - Coder's Computer](https://jnez405.github.io/reading-notes/Course102/C-2_Coders_Computer)
 
-[C-3 Revisions and Cloud](https://jnez405.github.io/reading-notes/Course102/C-3_Revisions_and_Cloud.md)
+[C-3 Revisions and Cloud](https://jnez405.github.io/reading-notes/Course102/C-3_Revisions_and_Cloud)
 
-[C-4 Structure web pages with HTML](https://jnez405.github.io/reading-notes/Course102/C-4_Structure_web_pages_with_HTML.md)
+[C-4 Structure web pages with HTML](https://jnez405.github.io/reading-notes/Course102/C-4_Structure_web_pages_with_HTML)
 
-[C-5 Design web pages with CSS](https://jnez405.github.io/reading-notes/Course102/C-5_Design_web_pages_with_CSS,md)
+[C-5 Design web pages with CSS](https://jnez405.github.io/reading-notes/Course102/C-5_Design_web_pages_with_CSS)
 
-[C-6 Activate web pages with JavaScript](https://jnez405.github.io/reading-notes/Course102/C-6_Activate_web_pages_with_JavaScript.md)
+[C-6 Activate web pages with JavaScript](https://jnez405.github.io/reading-notes/Course102/C-6_Activate_web_pages_with_JavaScript)
 
-[C-7 Programming with JavaScript](https://jnez405.github.io/reading-notes/Course102/C-7_Programming_with_JavaScript.md)
+[C-7 Programming with JavaScript](https://jnez405.github.io/reading-notes/Course102/C-7_Programming_with_JavaScript)
 
-[C-8 Operators and Loops](https://jnez405.github.io/reading-notes/Course102/C-8_Operators_and_Loops.md)
+[C-8 Operators and Loops](https://jnez405.github.io/reading-notes/Course102/C-8_Operators_and_Loops)
 
 ## Code 201 Reading Notes
-[1](https://jnez405.github.io/reading-notes/Course201/1.md)
+[1](https://jnez405.github.io/reading-notes/Course201/1)
 
-[2](https://jnez405.github.io/reading-notes/Course201/2.md)
+[2](https://jnez405.github.io/reading-notes/Course201/2)
 
-[3](https://jnez405.github.io/reading-notes/Course201/3.md)
+[3](https://jnez405.github.io/reading-notes/Course201/3)
 
-[4](https://jnez405.github.io/reading-notes/Course201/4.md)
+[4](https://jnez405.github.io/reading-notes/Course201/4)
 
-[5](https://jnez405.github.io/reading-notes/Course201/5.md)
+[5](https://jnez405.github.io/reading-notes/Course201/5)
 
-[6](https://jnez405.github.io/reading-notes/Course201/6.md)
+[6](https://jnez405.github.io/reading-notes/Course201/6)
 
-[7](https://jnez405.github.io/reading-notes/Course201/7.md)
+[7](https://jnez405.github.io/reading-notes/Course201/7)
 
-[8](https://jnez405.github.io/reading-notes/Course201/8.md)
+[8](https://jnez405.github.io/reading-notes/Course201/8)
 
-[9](https://jnez405.github.io/reading-notes/Course201/9.md)
+[9](https://jnez405.github.io/reading-notes/Course201/9)
 
-[10](https://jnez405.github.io/reading-notes/Course201/10.md)
+[10](https://jnez405.github.io/reading-notes/Course201/10)
 
-[11](https://jnez405.github.io/reading-notes/Course201/11.md)
+[11](https://jnez405.github.io/reading-notes/Course201/11)
 
-[12](https://jnez405.github.io/reading-notes/Course201/12.md)
+[12](https://jnez405.github.io/reading-notes/Course201/12)
 
-[13](https://jnez405.github.io/reading-notes/Course201/13.md)
+[13](https://jnez405.github.io/reading-notes/Course201/13)
 
-[14](https://jnez405.github.io/reading-notes/Course201/14.md)
+[14](https://jnez405.github.io/reading-notes/Course201/14)
 
-[15](https://jnez405.github.io/reading-notes/Course201/15.md)
+[15](https://jnez405.github.io/reading-notes/Course201/15)
 
 ***
 
