@@ -55,15 +55,15 @@ Making Links: `<a></a> - element`
 Starting a HTML file for a Website
 
 ```
-> <!DOCTYPE html>
-> <html>
-> <head>
->    <title>Your Website Title</title>
-> </head>
-> <body>
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Your Website Title</title>
+</head>
+<body>
 
-> <!-- Your content goes here -->
+<!-- Your content goes here -->
 
-> </body>
-> </html>
+</body>
+</html>
 ```
