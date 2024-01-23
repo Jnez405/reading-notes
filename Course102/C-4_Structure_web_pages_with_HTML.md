@@ -5,8 +5,8 @@
 
 2. **What are the 3 main parts of an HTML element?** 
    1. `opening tag`, which marks the beginning of the element; 
-   2. `content`the actual information or nested elements;
-   3. `closing tag`, indicating the end of the element. 
+   1. `content`the actual information or nested elements;
+   1. `closing tag`, indicating the end of the element. 
 
 - **Example:** `<p>This is a paragraph.</p>`
 
