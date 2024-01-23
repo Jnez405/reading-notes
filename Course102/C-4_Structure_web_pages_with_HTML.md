@@ -1,9 +1,9 @@
 # Structure web pages with HTML
 
-1. **What is HTML and why do we use it?**
+**What is HTML and why do we use it?**
    - HTML, or HyperText Markup Language, is the standard language for creating web pages. It allows developers to structure content on a webpage, defining elements like text, images, links, and forms, forming the foundational structure of websites.
 
-2. **What are the 3 main parts of an HTML element?** 
+**What are the 3 main parts of an HTML element?** 
    1. `opening tag`, which marks the beginning of the element; 
    1. `content`the actual information or nested elements;
    1. `closing tag`, indicating the end of the element. 
@@ -12,13 +12,13 @@
 
 - This structure, represented as opening tag, content, and closing tag, forms the basic syntax of HTML elements.
 
-3. **What is it called when you give an element extra information?**
+**What is it called when you give an element extra information?**
    - Providing extra information to an HTML element is called adding attributes. Attributes, included within the opening tag, offer additional details or modifications to the element, enhancing its behavior or appearance.
    - `href` is  attribute specifies the hyperlink reference or URL to which the anchor element links. 
 
 - **Example:** `<a href="https://www.example.com">Visit Example.com</a>`
 
-4. **semantic element?**
+**semantic element?**
    - A semantic element in HTML conveys meaning about the structure and content of a document to both browsers and developers. Elements like `<header>`, `<footer>`, and `<article>` provide clarity and improve the readability of HTML by indicating the role and significance of different parts of a webpage.
 
 ## **Wireframe:**
