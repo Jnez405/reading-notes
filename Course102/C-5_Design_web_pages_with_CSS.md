@@ -29,7 +29,7 @@
 
 **3. External CSS:**
 
-You need to save a .css file that has the formatting for the text, then add tags to pull what you need from the .css file to you HTML file 
+You need to save a .css file that has the formatting for the text, then add tags to pull what you need from the .css file to your HTML file 
 
 In "styles.css" file:
 ```css
