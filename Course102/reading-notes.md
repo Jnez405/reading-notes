@@ -14,9 +14,9 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 # Notes/Assignments
 ## Code 102 Reading Notes
-[C1 - Markdown](https://jnez405.github.io/reading-notes/Course102/C-1_Markdown)
+[C-1 Markdown](https://jnez405.github.io/reading-notes/Course102/C-1_Markdown)
 
-[C2 - Coder's Computer](https://jnez405.github.io/reading-notes/Course102/C-2_Coders_Computer)
+[C-2 Coder's Computer](https://jnez405.github.io/reading-notes/Course102/C-2_Coders_Computer)
 
 [C-3 Revisions and Cloud](https://jnez405.github.io/reading-notes/Course102/C-3_Revisions_and_Cloud)
 
