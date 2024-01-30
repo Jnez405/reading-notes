@@ -4,7 +4,6 @@
   - Order of statement execution.
   - Uses structures like `if`, `for`, `while` to control flow.
 
-Certainly! Here are notes for `if`, `for`, and `while` statements in JavaScript:
 
 - **if Statement:**
   - Used for conditional execution.
