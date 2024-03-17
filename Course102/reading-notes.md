@@ -13,7 +13,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 > -Sherman Finesilver-
 
 # Notes/Assignments
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 [C-1 Markdown](https://jnez405.github.io/reading-notes/Course102/C-1_Markdown)
 
 [C-2 Coder's Computer](https://jnez405.github.io/reading-notes/Course102/C-2_Coders_Computer)
@@ -30,7 +30,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-8 Operators and Loops](https://jnez405.github.io/reading-notes/Course102/C-8_Operators_and_Loops)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 [1](https://jnez405.github.io/reading-notes/Course201/1)
 
 [2](https://jnez405.github.io/reading-notes/Course201/2)
