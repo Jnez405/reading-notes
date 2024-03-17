@@ -33,7 +33,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 ## Code 201 - Foundations of Software Development
 [C-1 Essentials of Web Development: From HTTP to JavaScript Basics](https://jnez405.github.io/reading-notes/Course201/class-01)
 
-[2](https://jnez405.github.io/reading-notes/Course201/2)
+[C-2 Basics of HTML, CSS & JS](https://jnez405.github.io/reading-notes/Course201/class-02)
 
 [3](https://jnez405.github.io/reading-notes/Course201/3)
 
