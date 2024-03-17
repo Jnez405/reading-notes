@@ -157,3 +157,4 @@ JavaScript can be added to an HTML document in several ways:
 - How does JavaScript handle things happening at the same time?
 - Can JavaScript talk to databases directly on websites?
 - Is JavaScript always safe to use on websites?
+

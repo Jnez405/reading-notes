@@ -26,6 +26,54 @@
    - **Internal stylesheet:** CSS placed within `<style>` tags in HTML `<head>`.
    - **Inline styles:** CSS directly applied to HTML elements using `style` attribute.
 
+   **
+### Ways to Apply CSS to HTML:
+
+1. **External Stylesheet**:
+   - Create a separate `.css` file containing all CSS rules.
+   - Link the CSS file to HTML using the `<link>` element within the `<head>` section.
+   - Example:
+     ```html
+     <link rel="stylesheet" type="text/css" href="styles.css">
+     ```
+
+2. **Internal Stylesheet**:
+   - Define CSS rules directly within the HTML `<style>` element in the `<head>` section.
+   - Example:
+     ```html
+     <style>
+       /* CSS rules here */
+     </style>
+     ```
+
+3. **Inline Styles**:
+   - Apply CSS rules directly to individual HTML elements using the `style` attribute.
+   - Example:
+     ```html
+     <h1 style="color: blue;">Heading</h1>
+     ```
+
+## Reasons to Avoid Using Inline Styles:
+
+1. **Maintainability**:
+   - Inline styles make it challenging to maintain consistency across the website since each style is applied individually to elements.
+
+2. **Readability**:
+   - Mixing HTML structure with styling attributes can clutter the code and reduce readability, especially in large projects.
+
+3. **Specificity Issues**:
+   - Inline styles have the highest specificity, making it difficult to override them with external or internal stylesheets.
+
+4. **Accessibility**:
+   - Inline styles can hinder accessibility features as they may not be properly interpreted by assistive technologies.
+
+5. **Debugging**:
+   - Troubleshooting becomes more complex when styles are scattered throughout the HTML document, as opposed to being centralized in a separate stylesheet.
+
+6. **Caching and Performance**:
+   - External stylesheets can be cached by the browser, resulting in faster loading times for subsequent page visits. Inline styles are loaded every time the HTML document is accessed, potentially impacting performance.
+   **
+
 2. **Selectors:**
    - Target HTML elements for styling purposes.
    - Examples: Element selectors (`h1`, `p`), class selectors (`.classname`), ID selectors (`#idname`).
@@ -126,7 +174,27 @@ footer {
   padding: 10px 0;
 }
 ```
+---
+```css
+   h2 {
+     color: black;
+     padding: 5px;
+   }
+```
 
+- **Selector**: `h2` represents the selector. It targets HTML `<h2>` elements to apply the defined styles.
+
+- **CSS Declarations**: 
+  - `color: black;`
+  - `padding: 5px;`
+  
+  These are the CSS declarations. Each declaration consists of a property and a value, separated by a colon (`:`).
+
+- **Properties**:
+  - `color`
+  - `padding`
+  
+  These are the components considered as properties. They define specific stylistic attributes that will be applied to the selected HTML elements.
 
 ## Learn JS
 
@@ -177,3 +245,8 @@ footer {
    - **|| (Logical OR):**
      - Returns true if at least one operand is true.
      - If both operands are false, returns false.
+
+## Things I Want to Know More About
+can you have more than one css styles file?
+
+
