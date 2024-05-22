@@ -115,3 +115,8 @@ Together, these four parts—content area, padding, border, and margin—form th
 
 6. **Example of When a Loop is Useful**:
    - A loop is useful in JavaScript when you need to perform a task repeatedly, such as iterating through an array or a list of items to perform some operation on each item. For instance, when you want to display a list of items from an array on a webpage, you can use a loop to iterate through the array and generate HTML elements for each item dynamically.
+
+ ## Things I want to know more about
+    -How to customize list styles beyond basic bullet and number types in HTML and CSS.
+    -Advanced uses of the CSS box model for responsive design.
+    -Efficient ways to manipulate and traverse large arrays in JavaScript.
