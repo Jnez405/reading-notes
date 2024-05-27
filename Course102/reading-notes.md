@@ -39,7 +39,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-4 HTML Links, JS Functions, and Intro to CSS Layout](https://jnez405.github.io/reading-notes/Course201/class-04)
 
-[5](https://jnez405.github.io/reading-notes/Course201/class-05)
+[C-5 Readings: Images, Color, Text](https://jnez405.github.io/reading-notes/Course201/class-05)
 
 [6](https://jnez405.github.io/reading-notes/Course201/class-06)
 
