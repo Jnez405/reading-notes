@@ -35,31 +35,31 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-2 Basics of HTML, CSS & JS](https://jnez405.github.io/reading-notes/Course201/class-02)
 
-[3](https://jnez405.github.io/reading-notes/Course201/3)
+[C-3 HTML Lists, Control Flow with JS, and the CSS Box Model](https://jnez405.github.io/reading-notes/Course201/class-03)
 
-[4](https://jnez405.github.io/reading-notes/Course201/4)
+[C-4 HTML Links, JS Functions, and Intro to CSS Layout](https://jnez405.github.io/reading-notes/Course201/class-04)
 
-[5](https://jnez405.github.io/reading-notes/Course201/5)
+[5](https://jnez405.github.io/reading-notes/Course201/class-05)
 
-[6](https://jnez405.github.io/reading-notes/Course201/6)
+[6](https://jnez405.github.io/reading-notes/Course201/class-06)
 
-[7](https://jnez405.github.io/reading-notes/Course201/7)
+[7](https://jnez405.github.io/reading-notes/Course201/class-07)
 
-[8](https://jnez405.github.io/reading-notes/Course201/8)
+[8](https://jnez405.github.io/reading-notes/Course201/class-08)
 
-[9](https://jnez405.github.io/reading-notes/Course201/9)
+[9](https://jnez405.github.io/reading-notes/Course201/class-09)
 
-[10](https://jnez405.github.io/reading-notes/Course201/10)
+[10](https://jnez405.github.io/reading-notes/Course201/class-10)
 
-[11](https://jnez405.github.io/reading-notes/Course201/11)
+[11](https://jnez405.github.io/reading-notes/Course201/class-11)
 
-[12](https://jnez405.github.io/reading-notes/Course201/12)
+[12](https://jnez405.github.io/reading-notes/Course201/class-12)
 
-[13](https://jnez405.github.io/reading-notes/Course201/13)
+[13](https://jnez405.github.io/reading-notes/Course201/class-13)
 
-[14](https://jnez405.github.io/reading-notes/Course201/14)
+[14](https://jnez405.github.io/reading-notes/Course201/class-14)
 
-[15](https://jnez405.github.io/reading-notes/Course201/15)
+[15](https://jnez405.github.io/reading-notes/Course201/class-15)
 
 ***
 
