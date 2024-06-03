@@ -41,7 +41,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-5 Images, Color, Text](https://jnez405.github.io/reading-notes/Course201/class-05)
 
-[6](https://jnez405.github.io/reading-notes/Course201/class-06)
+[C-6 Problem Domain, Objects, and the DOM](https://jnez405.github.io/reading-notes/Course201/class-06)
 
 [7](https://jnez405.github.io/reading-notes/Course201/class-07)
 
