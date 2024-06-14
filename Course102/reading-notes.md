@@ -43,7 +43,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-6 Problem Domain, Objects, and the DOM](https://jnez405.github.io/reading-notes/Course201/class-06)
 
-[7](https://jnez405.github.io/reading-notes/Course201/class-07)
+[C-7 Object-Oriented Programming, HTML Tables](https://jnez405.github.io/reading-notes/Course201/class-07)
 
 [8](https://jnez405.github.io/reading-notes/Course201/class-08)
 
