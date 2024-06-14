@@ -45,7 +45,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-7 Object-Oriented Programming, HTML Tables](https://jnez405.github.io/reading-notes/Course201/class-07)
 
-[8](https://jnez405.github.io/reading-notes/Course201/class-08)
+[C-8 CSS Layout](https://jnez405.github.io/reading-notes/Course201/class-08)
 
 [9](https://jnez405.github.io/reading-notes/Course201/class-09)
 
