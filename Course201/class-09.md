@@ -1,4 +1,4 @@
-### Reading Assignment: Forms and JS Events
+# Reading Assignment: Forms and JS Events
 
 #### Why This Topic Matters
 This topic is super important because forms and JavaScript events are the backbone of any interactive web app. Forms let users input data, which is crucial for things like logging in, signing up, or submitting feedback. JavaScript events make web pages dynamic, responding to user actions like clicks or key presses. Getting a handle on these will help me create functional, user-friendly web applications.

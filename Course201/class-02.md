@@ -1,4 +1,4 @@
-## HTML Fundamentals Expanded and Semantic Elements Overview
+# HTML Fundamentals Expanded and Semantic Elements Overview
 
 1. **Importance of Semantic Elements in HTML:**
    - Semantic elements provide meaning and structure to content.

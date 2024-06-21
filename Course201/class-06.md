@@ -1,4 +1,4 @@
-### Notes: Problem Domain, Objects, and the DOM
+# Problem Domain, Objects, and the DOM
 
 #### Reading: JavaScript Object Basics
 

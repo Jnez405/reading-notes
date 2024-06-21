@@ -1,4 +1,4 @@
-### Reading Notes: Images, Color, Text
+# Reading Notes: Images, Color, Text
 
 #### Why This Topic Matters
 Understanding how to use images, color, and text in HTML and CSS is crucial for creating visually appealing, accessible, and user-friendly web pages. These skills are fundamental in web development, enhancing both the aesthetics and functionality of websites. Proper use of images, thoughtful color schemes, and effective text styling can significantly improve user experience and engagement.

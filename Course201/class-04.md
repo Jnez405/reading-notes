@@ -1,4 +1,4 @@
-## HTML Links, JS Functions, and Intro to CSS Layout
+# HTML Links, JS Functions, and Intro to CSS Layout
 
 ### Why This Topic Matters
 Understanding HTML links, JavaScript functions, and CSS layout is crucial for web development. These concepts form the foundation of building interactive and well-structured web pages. Mastering these will enhance our ability to create dynamic and accessible websites.

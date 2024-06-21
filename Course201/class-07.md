@@ -1,4 +1,4 @@
-### Domain Modeling
+# Domain Modeling
 
 #### Why We Need Domain Modeling
 - **Purpose**: Domain modeling helps in understanding and organizing the problem space of a given domain by creating a visual representation of its key concepts, entities, and relationships.

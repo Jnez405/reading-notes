@@ -49,7 +49,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-9 Forms and Events](https://jnez405.github.io/reading-notes/Course201/class-09)
 
-[10](https://jnez405.github.io/reading-notes/Course201/class-10)
+[C-10 Debugging and Error Handling](https://jnez405.github.io/reading-notes/Course201/class-10)
 
 [11](https://jnez405.github.io/reading-notes/Course201/class-11)
 
