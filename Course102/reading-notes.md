@@ -51,7 +51,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-10 Debugging and Error Handling](https://jnez405.github.io/reading-notes/Course201/class-10)
 
-[11](https://jnez405.github.io/reading-notes/Course201/class-11)
+[C-11 Audio, Video, Images](https://jnez405.github.io/reading-notes/Course201/class-11)
 
 [12](https://jnez405.github.io/reading-notes/Course201/class-12)
 
