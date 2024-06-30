@@ -53,7 +53,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-11 Audio, Video, Images](https://jnez405.github.io/reading-notes/Course201/class-11)
 
-[12](https://jnez405.github.io/reading-notes/Course201/class-12)
+[C-12 Chart.js, Canvas](https://jnez405.github.io/reading-notes/Course201/class-12)
 
 [13](https://jnez405.github.io/reading-notes/Course201/class-13)
 
