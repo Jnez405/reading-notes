@@ -55,7 +55,7 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-12 Chart.js, Canvas](https://jnez405.github.io/reading-notes/Course201/class-12)
 
-[13](https://jnez405.github.io/reading-notes/Course201/class-13)
+[C-13 Local Storage in Web Development](https://jnez405.github.io/reading-notes/Course201/class-13)
 
 [14](https://jnez405.github.io/reading-notes/Course201/class-14)
 

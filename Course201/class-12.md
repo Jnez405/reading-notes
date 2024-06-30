@@ -1,4 +1,4 @@
-### Reading Notes
+### Chart.js, Canvas
 
 #### JavaScript Canvas
 
