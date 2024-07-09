@@ -57,9 +57,9 @@ Hello, my name is Jesus Ordunez I am a 1st generation mexican american trying to
 
 [C-13 Local Storage in Web Development](https://jnez405.github.io/reading-notes/Course201/class-13)
 
-[C-14 Psychological Safety](https://jnez405.github.io/reading-notes/Course201/class-14)
+[C-14 Psychological Safety](https://jnez405.github.io/reading-notes/Course201/class-14a)
 
-[15](https://jnez405.github.io/reading-notes/Course201/class-15)
+[C-14 CSS Transforms, Transitions, and Animations](https://jnez405.github.io/reading-notes/Course201/class-14b)
 
 ***
 
